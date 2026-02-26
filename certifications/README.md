@@ -90,7 +90,7 @@ If the record exists and `"status": "valid"`, the certificate is **officially ve
 
 ### 🧾 **License**
 
-All contents © 2025 **ToodMind**.
+All contents © 2025 **Goobo Labs**.
 Certificate and verification data are provided for educational and authenticity purposes only.
 
 ---
